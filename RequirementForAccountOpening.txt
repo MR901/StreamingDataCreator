@@ -1,0 +1,266 @@
+Table 1: Bank Account Related Information
+Branch:
+Date: (Account Open)
+Account Number:
+Branch ALPHA:
+
+Scheme Code:
+Scheme Name:
+Type of Account : --> Savings Bank A/c // Current A/c // Term Deposit A/c // Other A/c
+
+
+Table 2: 
+First ---> Second ---> Third
+Holder Name: First Middle and Last leaving a space
+Gender: M/F
+DOB: dd/mm/yyyy
+PAN: (if Available) 10 Digit
+Customer ID: (if any existing) 9 digit
+Occupation: Salaried // Self Employed // Professional // Politician // Housewife // Student // Defence Staff // Retired // Stock Broker // Agriculture // Antique Dealer // Arms Dealer // Business // Others
+Status: Minor // Sr. Citizen // Staff (EC no. _____) // Ex-Staff (EC no. _____) // Pensioner // NRI // Other/General  
+Annual Income(in Rs.): 
+Relationship with 1st Appplicant: (first holder is self so ignore that)
+Nationality :
+Father's / Husband's Name:  
+
+Name of the Guardian (in case of Minor):  ::(Attach Proof of Minor's DOB)
+Relationship with minor: F & NG // M & NG // Legal* // De facto // Others  ::(In case of Legal Guardian(Gardian appointed by court), enclose copy of the court orders)
+
+Name and Address of Employer: 
+
+Operating Instructions: Self // Either or Survivor // Former or Survivor // Jointly // Any one or Survivor/s // Others(PI. Specify)
+
+Facilities Reqired:
+	Checkbook: T/F
+		Issued Cheque Series No. ______ to ______
+		Date of Issue:  
+	Statement of Account Through
+		Pass Book: T/F
+		Post: T/F
+		Email: T/F
+		Delivery at Branch: T/F
+		Statement Frequency: Monthly // Quaterly
+	Internet Banking: T/F (if True fill up a seperate Application for internet Banking)
+	Debit cum ATM card: T/F
+		Name To Appear on Debit Card (length <= 20 character) ((Please issue Debit Card in the name of first / all Applicants (in case of two joint a/c holders with operations as E or S / Any one or S)))
+		First Applicant: 
+		Second Applicant:
+		Third Applicant:
+	Bank Card: (if True fill up a seperate Application for Bank Card)-------> remove it
+
+Residential Address: (First/ Second/ Third)
+	Flat No./Bldg Name:
+	Street/  Road & Area/ Locality:
+	City & District:
+	State and Country:
+	Pin Code:
+	Tel No., Fax No. :
+	Mobile:
+	Email:
+
+Communication Address: (if different from Residential Address)
+	Flat No./Bldg Name:
+	Street/  Road & Area/ Locality:
+	City & District:
+	State and Country:
+	Pin Code:
+	Tel No., Fax No. :
+	Mobile:
+	Email: ----> Not Presnt in this
+
+Permanent Address/ In casse of NRE,  Local Address in India
+	Flat No./Bldg Name:
+	Street/  Road & Area/ Locality:
+	City & District:
+	State and Country:
+	Pin Code:
+	Tel No.:
+
+
+
+Other information
+Education : Non-Matric // SSC/HSC // Graduate // Post-Graduate
+Monthly Income (Rs.) : Upto 5000/- // 5001-10000 // 10001-20000 // 20001-50000 // 50001-1lac // Above 1 lac
+Expected Annual Turnover in A/c : Rs._________
+If Salaried, employed with: Proprietorship // public Ltd. // MNC // Partnership // Public Sector // Government // Others (Pl. Specify)
+If Professsional: Doctor// Architect // CA/CS // IT Consultant // Engineer // Lawyer // Others (Pl. Specify)
+If Business: Manufacturing // Real Estate // Antique // Service Provider // Trader // Arms Dealer // Agriculture // Stock Broker // Others (Pl. Specify)
+
+Declaration:
+	I/we decline that I/we do not enjoy any credit facilities with other bank/s : T/F (ticked or not)
+	I/we decline that I/we have following deposit accounts and/or credit facilities with your/ other banks branches: T/F (ticked or not)
+		Bank & Branch: 
+		Place of Bank/ Branch:
+		Type of Account / Facility:
+		Amount:
+		Account Number:
+
+Terms and conditions and declaration
+	I/We wish to be informed about the various features/ products and promotional offers made by the Bank from time to time: T/F
+	Please do not call/ contact me/us for various features/ products and promotional offers made by the Bank from time to time: T/F
+	
+	Default True or Mandatory - I guess
+	Please issue Multi-city / Normal cheque book and recover charges from my/our account as per norms of the bank (Give Option)
+	Account will be operated and balance along with interest payable as per operational instructions given above.
+	I shall represent the said minor in all future transactions of any description in the above account until the said minor attains majority.
+	I will indemnify the Bank against the claim of the above minor of any withdrawal/transactions made by me in his/her account.
+	I / We understand that in the event of the death of the depositor(s), premature termination of term deposit would be allowed without any penal
+charges to the claimant(s) after following the due procedure.
+	I / We also agree to maintain the minimum / quarterly average balance which the Bank may prescribe as the minimum / quarterly average balance
+to be maintained to avail the facilities and agree to pay the charges if minimum / quarterly average balance is not maintained and any other
+charges stipulated by the Bank. I/We understand that any change in this respect will be notified by the Bank on its website www.bankof______.com and also will be displayed on the notice board of the branches one month in advance.
+	I / we shall fill up separate pay-in-slips prescribed by the Bank for various time deposit schemes. I / we understand that the Term deposit shall be under auto-renewal scheme of the Bank unless otherwise specified by me/us.
+	I/We authorize Bank of Baroda/its Group Companies or its/their agents to make references and enquiries as may be deemed necessary in their
+discretion with regard to the information furnished in this application. Bank of Baroda and its Group entities/companies are empowered to exchange, share or part with all the information, data or documents relating to my/our application inter se among themselves or to other Banks / Financial Institutions / Credit Bureaus / Agencies / Statutory Bodies / such other entities / persons as may be deemed necessary or appropriate or as may be required for processing of such information / data by such person/s or for furnishing of the processed information / data / products thereof to other Banks / Financial Institutions / Credit Bureaus / Agencies / users registered with such agencies.
+
+For Debit cum ATM Card to be issued in the operative deposit account:
+	I/We have read and understood the terms & conditions governing the usage of the Debit Card. I/We accept to be bound by the said terms & conditions and to any changes made therein from time to time by the Bank at its sole discretion. I/We authorize Bank of Baroda to issue a Debit cum ATM Card to the person/s as name mentioned in the application of account opening form. I confirm that I am the sole account holder or have the required mandate to operate the account singly linked to the Debit Card. I/We further unconditionally and irrevocably authorize you to debit my/our account annually for Debit Card fees/charges if any stipulated by the bank.
+	 I/We understand and undertake that the usage of the Debit Card shall be strictly in accordance with the Exchange Control Regulations and in the event of any failure to do so, I/We will be liable for action under the Foreign Exchange Management Act, 1999 and the amendments thereof stipulated by Reserve Bank of India from time to time.
+	I/We accept full responsibility for my/our Debit Card and agree not to make any claims against Bank of Baroda in respect thereto.
+
+Full Signature (in running handwriting):
+	Sole/First Applicant: 
+	2nd Applicant:
+	3rd Applicant:
+
+
+Introduction from an existing account holder (at least ----------> ignored for now
+	Date:----------> ignored for now
+	|
+	|
+	Signature of Introducer: ----------> ignored for now
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Title of Account
+Account No.
+Branch
+Operating Instructions
+
+Name:  1st holder, 2nd , 3rd
+Customer ID:
+Specimen Signature:
+Photograph:
+
+Name of Bank Official in Whose Presence Signed: 
+Signature:
+S.S No.: ----->Specimen Signature No.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+## Form DA-1 Nomination Form
+
+Name of Nominee:
+Address of Nominee:
+Relation with depositor (if any):
+Age:
+Place:
+Date:
+Witness (2 required)
+	Signature, Name, & Address of Witness:
+	Signature of Depositors:
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Staff Confirmation
+
+Applicant interviewed & purpose ascertained by
+	Name of Authorised Staff:
+	Signature:
+
+Document/s of identification/Address proof listed above were verified with original by
+	Name of Authorised Staff:
+	Signature:
+
+Letter of thanks sent to A/c. holders and Introducer on __________ ----------> ignored for now
+
+Money Laundering Risk Classification
+	Level: Low // Medium // High
+	Name of Authorised Staff:
+	Signature:
+
+(Specimen Signature No.) == S.S. No.
+
+KYC Certification Approved
+	Signature of HOD: 
+	Specimen Signature No.: 
+	Date:
+	
+	Signature of Branch Head/ Joint Manager/ Manager: 
+	Specimen Signature No.
+	Date:
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Table 3:
+
+
+Table 4:
+
+
+Table 5:
+
+
+Table 6: 
+
+
+
+
+Attachments:
+Application Copy
+PAN attach Form60/61.
+Attach Proof of Minor's  DOB.
+In case of Legal Guardian(Gardian appointed by court), enclose copy of the court orders)
+(if True fill up a seperate Application for internet Banking)
+
+
+Documents of Identification:
+	Photo identity (3 required):
+		Type of Document:
+		Document Number:
+		Issuing Authority:
+		Date of Issue:
+		Place of Issue:
+		Valid Upto:
+	Address Proof Identity (3 required):
+		Type of Document:
+		Document Number:
+		Issuing Authority:
+		Date of Issue:
+		Place of Issue:
+		Valid Upto:
+
+
+KYC IDENTIFICATION DOCUMENT TO BE SUBMITTED BY APPLICANT
+(Any one document from each of the following two lists subject to Bank’s
+satisfaction)
+LIST – I (Latest/ recent photo identification documents)
+1. Passport (Must for NRI)
+2. Driving License with photograph
+3. Voter’s Identity Card
+4. PAN Card, Government ID Card
+5. Identity Card/ Confirmation from employer
+6. Letter from recognized public authority or public servant verifying the
+identity (photo) of customer.
+7. Confirmation letter from employer / other Bank verifying therein
+photograph of the customer along with other things.
+8. Any other document with photograph evidencing identity of the
+applicant/s acceptable to the Bank.
+(For married woman, proof of identity with her maiden name, if supported with
+a verified true copy of marriage certificate is acceptable as valid identity
+proof).
+LIST – II (Latest / recent documents showing address proof)
+1. Passport
+2. Driving License with address, Voters’ Identity Card
+3. Telephone Bill, Electricity Bill, Ration Card
+4. Bank account statement (with address)
+5. Income / Wealth Tax assessment order (with address)
+6. Letter from employer / Any document of communication issued by any
+authority of Central / State Government or local body showing residential
+address.
+7. Any documentary evidence in support of residential address acceptable
+to the Bank.
+8. In case of married women address proof of the groom is acceptable
+
